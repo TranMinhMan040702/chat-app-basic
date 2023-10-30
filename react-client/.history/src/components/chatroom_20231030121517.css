@@ -1,0 +1,32 @@
+.container {
+   height: 100vh;
+}
+
+.title {
+   text-align: center;
+   font-size: 20px;
+}
+
+.register-container {
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url("../assets/images/nha-cai-iu-tin.jpg");
+}
+
+.chat-messages {
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url("../assets/images/Untitled\ design.png");
+}
+
+.member-list {
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url("../assets/images/logoMu.png");
+}

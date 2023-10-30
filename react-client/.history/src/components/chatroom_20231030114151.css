@@ -1,0 +1,12 @@
+.container {
+   height: 100vh;
+}
+
+.register-container {
+   opacity: 0.2;
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: url("../assets/images/nha-cai-iu-tin.jpg");
+}
